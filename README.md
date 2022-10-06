@@ -1,2 +1,1 @@
-# Trex_Etapa1
-Dinosaurio
+# Trex_Etapa_0.5
